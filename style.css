@@ -1,3 +1,26 @@
+.navbar{
+	width:100%;
+}
+.blank-space, .gmail, .name, .images{
+	display: inline-block;
+}
+.gmail, .name, .images{
+	padding-left: 10px;
+	padding-right:10px;
+}
 .blank-space{
-	padding-right: 200px;
+	width:70%;
+}
+.ball{
+	color:#FFF;
+	background-color: rgba(0,0,0,.55);
+	padding:10px;
+	border-radius: 50%;
+}
+.container{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	padding-top:200px;
+	padding-bottom: 200px;
 }
