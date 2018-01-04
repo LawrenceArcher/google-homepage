@@ -1,0 +1,1 @@
+Attempt and cloning the layout of the google.com homepage as part of the curriculum of The Odin Project.
